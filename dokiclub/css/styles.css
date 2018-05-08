@@ -390,7 +390,7 @@ p {
 }
 .lightbox .search-wrapper input[type="submit"],
 .lightbox .input-wrapper input[type="submit"] {
-  font-size: 26px;
+  font-size: 25px;
   line-height: 35px !important;
   height: 75px;
   padding: 0 24px;
@@ -2727,8 +2727,7 @@ p {
   display: none;
 }
 .header {
-  margin-top: 40px;
-  margin-bottom: 40px;
+  padding: 40px 0;
 }
 .header .banner {
   float: right;
